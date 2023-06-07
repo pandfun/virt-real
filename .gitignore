@@ -1,4 +1,7 @@
 .vscode
 a.out
 data
+
+# This file contains code from '221ce3b'
+# This won't be deleted, since I will be running tests on this version as well.
 virt-real.c
